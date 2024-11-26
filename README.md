@@ -1,2 +1,4 @@
 # HerrisHawkOptimization
-This repository contains resources from my 2024 PhD on Harris Hawk Optimization, including the article, code implementation, and a bilingual review presentation. I hope it helps others interested in the topic. Feedback and discussions are welcome, as this is an open repository.
+This repository serves as a review resource for my PhD research conducted in 2024, which focused on Harris Hawk Optimization. Inside, you'll find links to the published article, my implementation of the algorithm, and a bilingual PowerPoint presentation created for the review.
+
+I hope this resource proves helpful to anyone interested in the topic. Feedback and discussions are welcome, as this is an open repository.
