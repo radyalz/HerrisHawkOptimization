@@ -27,7 +27,7 @@ Images and references used in the PowerPoint. *(Coming Soon)*
 - *(Add related articles or resources here to help users explore further.)*  
 
 ---
-
+<!-- 
 ## 🛠 How to Level Up Your Repository  
 
 1. **Add a Demo or Visualization:**  
@@ -50,4 +50,4 @@ Images and references used in the PowerPoint. *(Coming Soon)*
    Use diagrams, flowcharts, or animations to explain the HHO process and its inspiration. Tools like [Excalidraw](https://excalidraw.com/) or [DALL·E](https://openai.com/dall-e) can help.
 
 7. **Link Code to Research:**  
-  
+   -->
