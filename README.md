@@ -16,17 +16,33 @@ I hope these resources are helpful for enthusiasts and researchers alike. Feel f
 - [Article on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530?via%3Dihub)  
 - [HHO Algorithm Overview (WZU)](https://mdm.wzu.edu.cn/HHO.html)  
 
-### 🖋 Best Explanation in Farsi  
+### 🖋 Best Explanation of the Optimization in Farsi  
 - [Farsi Video Explanation on Aparat](https://www.aparat.com/v/d175a8n)  
 - [ProgramStore Farsi Explanation](https://programstore.ir/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%87%D8%B1%DB%8C%D8%B3/)  
 
 ### 🖼 PowerPoint Resources  
+#### Images
+- [Dr. Louis Lefebvre - Page # (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)  
+- [Herris Hawks images - Page #](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)  
 Images and references used in the PowerPoint. *(Coming Soon)*  
 
 ### 📚 Related Articles  
 - *(Add related articles or resources here to help users explore further.)*  
 
 ---
+### 📚 Refrences based on Specific Topics
+
+## Dr. Louis Lefebvre
+ Maybe the reson of this main reason of this optimization was Dr. lefebvre studys based on birds behavior if you want to understand more about his works you could use this link
+- [Dr. Louis Lefebvre Webstie](https://biology.mcgill.ca/faculty/lefebvre/)  
+ also all of his main publications are mostly here
+- [Dr. Lefebvre Publications](https://biology.mcgill.ca/faculty/lefebvre/publications.html) 
+his webstie has intresting thing to read and understand and more fun fact about him is that most of his publications are open accsess so no excusess there if you want to !
+     
+## Herris hawks
+Maybe one of the best explanations of how the herris hawks hunts
+- [audubon.org](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)  
+
 <!-- 
 ## 🛠 How to Level Up Your Repository  
 
