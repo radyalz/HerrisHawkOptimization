@@ -4,15 +4,15 @@ Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource
 
 ## 📊 Repository Statistics
 
-- ⭐ **Stars:** ![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
-- 👀 **Watchers:** ![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/your-repo-name)
-- 🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)
-- 🐛 **Issues:** ![Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
-- 🔄 **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/your-repo-name)
-- ⏳ **Last Commit:** ![Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
-- 👥 **Contributors:** ![Contributors](https://img.shields.io/github/contributors/yourusername/your-repo-name)
-- 📄 **License:** ![License](https://img.shields.io/github/license/yourusername/your-repo-name)
-- 📦 **Repository Size:** ![Repo Size](https://img.shields.io/github/repo-size/yourusername/your-repo-name)
+- ⭐ **Stars:** ![GitHub Repo Stars](https://img.shields.io/github/stars/radyalz/HerrisHawkOptimization)
+- 👀 **Watchers:** ![GitHub Watchers](https://img.shields.io/github/watchers/radyalz/HerrisHawkOptimization)
+- 🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/radyalz/HerrisHawkOptimization)
+- 🐛 **Issues:** ![Issues](https://img.shields.io/github/issues/radyalz/HerrisHawkOptimization)
+- 🔄 **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/radyalz/HerrisHawkOptimization)
+- ⏳ **Last Commit:** ![Last Commit](https://img.shields.io/github/last-commit/radyalz/HerrisHawkOptimization)
+- 👥 **Contributors:** ![Contributors](https://img.shields.io/github/contributors/radyalz/HerrisHawkOptimization)
+- 📄 **License:** ![License](https://img.shields.io/github/license/radyalz/HerrisHawkOptimization)
+- 📦 **Repository Size:** ![Repo Size](https://img.shields.io/github/repo-size/radyalz/HerrisHawkOptimization)
 
 ![Harris Hawks](Images/HerisHawk.jpg)
 ---
