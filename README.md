@@ -56,12 +56,18 @@ This repository is licensed under the [LICENSE](LICENSE).
 - [Farsi Video Explanation on Aparat](https://www.aparat.com/v/d175a8n)
 - [ProgramStore Farsi Explanation](https://programstore.ir/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%87%D8%B1%DB%8C%D8%B3/)
 
-### 🖼 PowerPoint Resources
-#### Images
-- [Dr. Louis Lefebvre - Page # (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)
-- [Harris Hawks Images - Page #](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)
+### 🖼 Images Resources
+#### For PowerPoint 
+- [Harris Hawks Images - Page 1 - Photo by Frank Cone:]( https://www.pexels.com/photo/bird-flying-3959918/)
+- [Dr. Louis Lefebvre - Page 2 (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)
+- [Harris Hawks Images - Page 3](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)
+- [Writers OF HHO Article - Page 4](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530)
+- [HHO Mathematical model and structure - Page 5 to Page 11](https://aliasgharheidari.com/HHO.html)
+- [Hawk Image - Page 12](https://aliasgharheidari.com/HHO.html)
 
-*(Images and references used in the PowerPoint will be available soon.)*
+#### For Repository 
+- [Harris Hawks Images - Photo by Frank Cone:]( https://www.pexels.com/photo/bird-flying-3959918/)
+- [Ali Asghar Heidari Profile Picture](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530)
 
 ### 📚 Related Articles
 Explore other articles and case studies where HHO has been applied:
