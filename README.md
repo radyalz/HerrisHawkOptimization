@@ -58,12 +58,12 @@ This repository is licensed under the [LICENSE](LICENSE).
 
 ### 🖼 Images Resources
 #### For PowerPoint 
-- [Harris Hawks Images - Page 1 - Photo by Frank Cone:]( https://www.pexels.com/photo/bird-flying-3959918/)
+- [Harris Hawks Images - Page 1 - Photo by Frank Cone]( https://www.pexels.com/photo/bird-flying-3959918/)
 - [Dr. Louis Lefebvre - Page 2 (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)
 - [Harris Hawks Images - Page 3](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)
 - [Writers OF HHO Article - Page 4](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530)
 - [HHO Mathematical model and structure - Page 5 to Page 11](https://aliasgharheidari.com/HHO.html)
-- [Hawk Image - Page 12](https://aliasgharheidari.com/HHO.html)
+- [Hawk Image - Page 12 - Photo by Pixabay](https://www.pexels.com/photo/brown-hawk-flying-freely-56865/)
 
 #### For Repository 
 - [Harris Hawks Images - Photo by Frank Cone:]( https://www.pexels.com/photo/bird-flying-3959918/)
