@@ -1,69 +1,125 @@
-# 🦅 Harris Hawk Optimization (HHO)  
-Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource based on my 2024 PhD research. Dive into the world of HHO, an exciting metaheuristic algorithm inspired by the cooperative hunting strategy of Harris hawks!  
+# 🦅 Harris Hawk Optimization (HHO)
 
-This repository includes:  
-- 📄 Links to the published main article.  
-- 💻 My implementation of the algorithm.  
-- 🌐 A bilingual PowerPoint presentation (English & Farsi) created for the research review.  
+Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource based on my 2024 PhD research. Explore the exciting world of **HHO**, a metaheuristic algorithm inspired by the cooperative hunting strategy of Harris hawks. This repository provides all the tools and resources you need to dive deep into the HHO algorithm and its applications.
 
-I hope these resources are helpful for enthusiasts and researchers alike. Feel free to share your thoughts, start discussions, or suggest improvements—this is an open repository for everyone to learn and grow!  
-
+![Harris Hawks](Images/HerisHawk.jpg)
 ---
 
-## 🚀 Resources  
+## 🚀 About This Repository
 
-### 🌟 Main Article  
-- [Article on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530?via%3Dihub)  
-- [HHO Algorithm Overview (WZU)](https://mdm.wzu.edu.cn/HHO.html)  
+In this repository, you'll find:
 
-### 🖋 Best Explanation of the Optimization in Farsi  
-- [Farsi Video Explanation on Aparat](https://www.aparat.com/v/d175a8n)  
-- [ProgramStore Farsi Explanation](https://programstore.ir/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%87%D8%B1%DB%8C%D8%B3/)  
+- 📄 **Links to the published main article** detailing the core concepts of HHO.
+- 💻 **My implementation** of the Harris Hawk Optimization algorithm.
+- 🌐 **Bilingual PowerPoint presentation** (English & Farsi) summarizing the research review and findings.
 
-### 🖼 PowerPoint Resources  
+I hope these resources are helpful for enthusiasts, researchers, and anyone curious about HHO. Feel free to explore, share your thoughts, start discussions, or suggest improvements—this is an open repository for the benefit of all.
+
+## 💬 Contribute
+
+This repository is open to contributions, and I appreciate your insights! However, please note that the contributors' section in this repository will focus on the main development work from my Ph.D. research.
+
+### Contributor Information:
+- **Main Developer**: Ali Asghar Heidari (Creator of the HHO algorithm)
+
+![Harris Hawks](Images/AliAsgharHeidari.jpg)
+
+For contributions and inquiries, please refer to the main repository for HHO on [GitHub](https://github.com/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications).
+
+**Languages Available**: English & Farsi (فارسی)
+---
+
+## 📚 Resources
+
+### 🌟 Main Article
+- [Article on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18313530?via%3Dihub)
+- [HHO Algorithm Overview (WZU)](https://mdm.wzu.edu.cn/HHO.html)
+
+### 🖋 Best Explanation of the Optimization in Farsi
+- [Farsi Video Explanation on Aparat](https://www.aparat.com/v/d175a8n)
+- [ProgramStore Farsi Explanation](https://programstore.ir/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%87%D8%B1%DB%8C%D8%B3/)
+
+### 🖼 PowerPoint Resources
 #### Images
-- [Dr. Louis Lefebvre - Page # (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)  
-- [Herris Hawks images - Page #](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)  
-Images and references used in the PowerPoint. *(Coming Soon)*  
+- [Dr. Louis Lefebvre - Page # (upscaled)](https://biology.mcgill.ca/faculty/lefebvre/index.html)
+- [Harris Hawks Images - Page #](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)
 
-### 📚 Related Articles  
-- *(Add related articles or resources here to help users explore further.)*  
+*(Images and references used in the PowerPoint will be available soon.)*
+
+### 📚 Related Articles
+Explore other articles and case studies where HHO has been applied:
+
+- [Harris Hawks Feature Selection in Distributed Machine Learning for Secure IoT Environments](https://paperswithcode.com/paper/harris-hawks-feature-selection-in-distributed)
+- [Electric Vehicles Coordination for Grid Balancing Using Multi-Objective Harris Hawks Optimization](https://paperswithcode.com/paper/electric-vehicles-coordination-for-grid)
+- [Diagnosis of Malignant Lymphoma Cancer Using Hybrid Optimized Techniques Based on Dense Neural Networks](https://paperswithcode.com/paper/diagnosis-of-malignant-lymphoma-cancer-using)
+- [Segmentation of Brain MRI Using an Altruistic Harris Hawks' Optimization Algorithm](https://paperswithcode.com/paper/segmentation-of-brain-mri-using-an-altruistic)
+
+Additionally, there is a Persian article in the **Related Articles** folder titled:
+
+- **بهینهسازی سازه‌ها با استفاده از الگوریتم ترکیبی شاهین هریس و ژنتیک**  
+(*PDF available in the folder—please contact me for details if needed.*)
 
 ---
-### 📚 Refrences based on Specific Topics
 
-## Dr. Louis Lefebvre
- Maybe the reson of this main reason of this optimization was Dr. lefebvre studys based on birds behavior if you want to understand more about his works you could use this link
-- [Dr. Louis Lefebvre Webstie](https://biology.mcgill.ca/faculty/lefebvre/)  
- also all of his main publications are mostly here
-- [Dr. Lefebvre Publications](https://biology.mcgill.ca/faculty/lefebvre/publications.html) 
-his webstie has intresting thing to read and understand and more fun fact about him is that most of his publications are open accsess so no excusess there if you want to !
-     
-## Herris hawks
-Maybe one of the best explanations of how the herris hawks hunts
-- [audubon.org](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)  
+## 📚 References Based on Specific Topics
 
-<!-- 
-## 🛠 How to Level Up Your Repository  
+### Dr. Louis Lefebvre
+The concept behind this optimization algorithm was influenced by the studies of Dr. Louis Lefebvre, who researched bird behavior extensively. To dive deeper into his work and understand the behavioral basis of HHO:
 
-1. **Add a Demo or Visualization:**  
-   Include a simple demo (e.g., an interactive notebook or web app) showcasing how HHO works with visualizations of its optimization process.
+- [Dr. Louis Lefebvre's Website](https://biology.mcgill.ca/faculty/lefebvre/)
+- [Dr. Lefebvre's Publications](https://biology.mcgill.ca/faculty/lefebvre/publications.html)  
+(*Most of his publications are open access—explore his fascinating research!*)
 
-2. **Improve Documentation:**  
-   - Use badges for quick information (e.g., project status, license, programming language).  
-   - Add a **Getting Started** section with steps to run your implementation.  
+### Ali Asghar Heidari
+Ali Asghar Heidari’s website offers additional insights into the HHO algorithm and his contributions:
 
-3. **Provide Code Examples:**  
-   Include step-by-step usage examples for your HHO implementation to make it beginner-friendly.  
+- [Ali Asghar Heidari's Website](https://aliasgharheidari.com/)
+- [Ali Asghar Heidari's HHO Publication](https://biology.mcgill.ca/faculty/lefebvre/publications.html)
 
-4. **Create a Wiki:**  
-   Expand content into a GitHub Wiki with detailed sections like "HHO Applications," "Algorithm Variants," and "Performance Comparisons."  
+### Harris Hawks
+For a deeper understanding of the real-life behavior of Harris hawks and how they hunt in groups, check out this detailed article:
 
-5. **Engage with the Community:**  
-   Add a **Contributing.md** file to encourage contributions. Create an "Issues" section for suggestions, questions, or bug reports.
+- [Audubon - How Harris Hawks Hunt](https://www.audubon.org/news/better-know-bird-how-harriss-hawks-hunt-wolves-bring-down-prey)
 
-6. **Add Visual Content:**  
-   Use diagrams, flowcharts, or animations to explain the HHO process and its inspiration. Tools like [Excalidraw](https://excalidraw.com/) or [DALL·E](https://openai.com/dall-e) can help.
+## 🦅 Harris Hawks Optimization (HHO): Algorithm and Applications
 
-7. **Link Code to Research:**  
-   -->
+**Harris Hawks Optimization (HHO)** is a novel nature-inspired optimization algorithm based on the cooperative hunting behavior of Harris hawks, specifically their "surprise pounce" strategy. The algorithm mimics the hawks’ ability to hunt cooperatively and adaptively, using dynamic exploration and exploitation strategies to find optimal solutions.
+
+### Key Features:
+- 🦅 **Nature-Inspired:** Mimics the cooperative hunting behavior of hawks.
+- ⚡ **Efficient:** Excellent at finding global optima in high-dimensional spaces.
+- 💡 **Versatile:** Applicable to continuous, combinatorial, and multi-objective optimization.
+- 🔄 **Dynamic Exploration & Exploitation:** Balances exploration and exploitation for robust performance.
+
+### Algorithm Workflow:
+HHO operates in three phases:
+1. **Exploration:** Hawks search broadly across the space to discover new regions.
+2. **Transition:** Hawks adjust between exploration and exploitation based on prey's energy (problem difficulty).
+3. **Exploitation:** Hawks refine solutions near the best-known position, converging toward the optimal solution.
+
+### Algorithm Steps:
+1. **Initialization:** Randomly initialize hawks (candidate solutions) across the search space.
+2. **Fitness Evaluation:** Evaluate fitness based on a domain-specific function.
+3. **Best Solution Tracking:** Track the best solution found so far.
+4. **Exploration vs. Exploitation:** Hawks decide to explore or exploit based on the prey's energy.
+5. **Dynamic Position Updates:** Hawks update their positions using encircling, sudden dives, or random jumps.
+6. **Stopping Criterion:** Continue until a stopping condition is met (e.g., max iterations, target fitness).
+
+### Phase Breakdown:
+- **Exploration Phase:** Broad search to promote diversity and prevent early convergence.
+- **Transition Phase:** Dynamic switching between exploration and exploitation to optimize performance.
+- **Exploitation Phase:** Focused search near the best solution using fine-tuning techniques like gradual encircling, sudden dives, and direct attacks.
+
+### Pseudo-Code:
+1. Initialize hawk positions randomly in the search space.
+2. Evaluate the fitness of each hawk.
+3. Identify the best solution (rabbit).
+4. Repeat until stopping criterion is met:
+   a. Update the energy of the prey.
+   b. Adjust hawk positions based on exploration or exploitation.
+   c. Evaluate fitness and update the best solution if needed.
+5. Return the best solution found.
+
+For more details, visit the [Harris Hawks Optimization Repository](https://github.com/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications).
+
+---
