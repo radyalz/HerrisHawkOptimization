@@ -2,6 +2,11 @@
 
 Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource based on my 2024 PhD research. Explore the exciting world of **HHO**, a metaheuristic algorithm inspired by the cooperative hunting strategy of Harris hawks. This repository provides all the tools and resources you need to dive deep into the HHO algorithm and its applications.
 
+## 📦 Repository Statistics
+- **Stars:** ![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
+- **Watchers:** [![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/watchers)
+- **Repository Size:** 45 MB
+
 ![Harris Hawks](Images/HerisHawk.jpg)
 ---
 
@@ -27,6 +32,12 @@ This repository is open to contributions, and I appreciate your insights! Howeve
 For contributions and inquiries, please refer to the main repository for HHO on [GitHub](https://github.com/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications).
 
 **Languages Available**: English & Farsi (فارسی)
+
+## 📜 License
+
+This project is licensed under a **Research License**. It may be used for educational and research purposes only. Any commercial use is strictly prohibited without proper authorization.
+
+Please refer to the [LICENSE](LICENSE) file for more details.
 ---
 
 ## 📚 Resources
