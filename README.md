@@ -43,8 +43,7 @@ For contributions and inquiries, please refer to the main repository for HHO on 
 ## 📜 License
 
 This project is licensed under a **Research License**. It may be used for educational and research purposes only. Any commercial use is strictly prohibited without proper authorization.
-
-Please refer to the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the [LICENSE](LICENSE).
 ---
 
 ## 📚 Resources
@@ -74,7 +73,7 @@ Explore other articles and case studies where HHO has been applied:
 
 Additionally, there is a Persian article in the **Related Articles** folder titled:
 
-- **بهینهسازی سازه‌ها با استفاده از الگوریتم ترکیبی شاهین هریس و ژنتیک**  
+- **بهینه سازی سازه‌ها با استفاده از الگوریتم ترکیبی شاهین هریس و ژنتیک**  
 (*PDF available in the folder—please contact me for details if needed.*)
 
 ---
