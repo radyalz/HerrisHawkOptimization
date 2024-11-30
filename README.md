@@ -2,10 +2,17 @@
 
 Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource based on my 2024 PhD research. Explore the exciting world of **HHO**, a metaheuristic algorithm inspired by the cooperative hunting strategy of Harris hawks. This repository provides all the tools and resources you need to dive deep into the HHO algorithm and its applications.
 
-## 📦 Repository Statistics
-- **Stars:** ![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
-- **Watchers:** [![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/your-repo-name)](https://github.com/yourusername/your-repo-name/watchers)
-- **Repository Size:** 45 MB
+## 📊 Repository Statistics
+
+- ⭐ **Stars:** ![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/your-repo-name)
+- 👀 **Watchers:** ![GitHub Watchers](https://img.shields.io/github/watchers/yourusername/your-repo-name)
+- 🍴 **Forks:** ![Forks](https://img.shields.io/github/forks/yourusername/your-repo-name)
+- 🐛 **Issues:** ![Issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+- 🔄 **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/your-repo-name)
+- ⏳ **Last Commit:** ![Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+- 👥 **Contributors:** ![Contributors](https://img.shields.io/github/contributors/yourusername/your-repo-name)
+- 📄 **License:** ![License](https://img.shields.io/github/license/yourusername/your-repo-name)
+- 📦 **Repository Size:** ![Repo Size](https://img.shields.io/github/repo-size/yourusername/your-repo-name)
 
 ![Harris Hawks](Images/HerisHawk.jpg)
 ---
