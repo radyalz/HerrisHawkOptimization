@@ -11,7 +11,7 @@ Welcome to the **Harris Hawk Optimization** repository, a comprehensive resource
 - 🔄 **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/radyalz/HerrisHawkOptimization)
 - ⏳ **Last Commit:** ![Last Commit](https://img.shields.io/github/last-commit/radyalz/HerrisHawkOptimization)
 - 👥 **Contributors:** ![Contributors](https://img.shields.io/github/contributors/radyalz/HerrisHawkOptimization)
-- 📄 **License:** ![License](https://img.shields.io/github/license/radyalz/HerrisHawkOptimization)
+- 📄 **License:** ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 - 📦 **Repository Size:** ![Repo Size](https://img.shields.io/github/repo-size/radyalz/HerrisHawkOptimization)
 
 ![Harris Hawks](Images/HerisHawk.jpg)
